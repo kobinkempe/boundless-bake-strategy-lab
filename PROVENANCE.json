@@ -1,0 +1,18 @@
+{
+  "repository": "https://github.com/kobinkempe/bound.less-kk",
+  "commit": "f92c1d1bc274716c0351591122b41f1502a3a590",
+  "date": "2026-08-26",
+  "entry": "src/Pages/BakeLab.js",
+  "historic_files_sha256": {
+    "src/Pages/BakeLab.js": "4227e85f5cc86428d964cf923dd9e803f7797aeec71b5967a71b4cdb8170c63f",
+    "src/engine/geometry/clipperOutline.js": "f7ed93fe955053a6e0e63cee6bc1c92f027e11972c9ad3a50d2dac77c94186aa",
+    "src/engine/geometry/curveOutline.js": "b46fc8c1229b9ab8b2906a2a014ddc1917b7051bfc5d41b43a4eb45be2f78835",
+    "src/engine/geometry/bakeStrategies.js": "45bafde1c276a4a8eb94a9e0ea9d059be55e18c5deb7a9c21516ff95323c4134",
+    "src/engine/geometry/curvePerimeter.js": "6099b5a6da1c5817e98e7eacbdcb74d3aa8c1b5792f542673c3c352ef4e408ea",
+    "src/engine/geometry/strokeShape.js": "b1204b4fdd0cccbc347434b0e5a59eab542430ac56dc2ba2175323e2cc735daa"
+  },
+  "portfolio_adaptations": [
+    "Minimal React 17 entry point and esbuild static build; no original product auth, cloud, storage, or app shell.",
+    "Narrow screens stack the canvas above scrollable controls; synthetic presets fit the available canvas. Geometry algorithms are unchanged."
+  ]
+}
