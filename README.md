@@ -19,7 +19,7 @@ It was built with AI assistance as part of [bound.less](https://bound-less-kk.we
 3. Compare while-drawing time, pen-up time, and the per-point tail.
 4. Toggle the original stroke and inspect the red outline to check whether the result changed.
 
-![Bake Strategy Lab browser screenshot](docs/screenshots/desktop.png)
+![Bake Strategy Lab browser screenshot](docs/screenshots/desktop.jpg)
 
 ## Run locally
 
