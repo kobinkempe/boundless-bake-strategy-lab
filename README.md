@@ -1,6 +1,6 @@
 # Bake Strategy Lab
 
-Compare doing the work while drawing, after pen-up, or a little of both.
+Compare when to calculate a stroke’s outline: while drawing, after the pen lifts or a little of both.
 
 ## Why this exists
 
@@ -12,7 +12,7 @@ It was built with AI assistance as part of [bound.less](https://bound-less-kk.we
 
 ## Try it
 
-[Open the live lab](https://kobin-ai-portfolio.kobinkempe.chatgpt.site/boundless-bake-strategy-lab/) · [Read the case study](https://kobin-ai-portfolio.kobinkempe.chatgpt.site/case-studies/boundless-bake-strategy-lab/)
+[Open the live lab](https://kobinkempe.pages.dev/boundless-bake-strategy-lab/) · [Read the case study](https://kobinkempe.pages.dev/case-studies/boundless-bake-strategy-lab/)
 
 1. Choose a small preset or draw a stroke.
 2. Switch A, B, and C to replay that exact stroke through each schedule.
@@ -35,13 +35,13 @@ Open `http://127.0.0.1:4400`. Drawings and controls exist only in this page’s 
 
 ## What the experiment can tell you
 
-This preserves the historical cubic pipeline and its experimental schedules. It is not the current bound.less production bake. Dense presets can block the main thread. The canvas accuracy readout is a diagnostic of this experiment, not a guarantee for all renderers.
+This preserves the earlier cubic pipeline and its experimental schedules. It is not the current bound.less production bake. Dense presets can block the main thread. The canvas accuracy readout is a diagnostic of this experiment, not a guarantee for all renderers.
 
 ## Source and history
 
-Recovered from [`src/Pages/BakeLab.js` at commit `f92c1d1`](https://github.com/kobinkempe/bound.less-kk/blob/f92c1d1bc274716c0351591122b41f1502a3a590/src/Pages/BakeLab.js) (26 August 2026). The development routes were removed in cleanup commit `f6f1062` on 1 September 2026. The algorithms and their local geometry dependencies come from the same historical revision so later engine changes cannot silently alter this comparison. `PROVENANCE.json` records the original source hashes and the small portfolio adaptations.
+Recovered from [`src/Pages/BakeLab.js` at commit `f92c1d1`](https://github.com/kobinkempe/bound.less-kk/blob/f92c1d1bc274716c0351591122b41f1502a3a590/src/Pages/BakeLab.js) (August 26, 2026). The development routes were removed in cleanup commit `f6f1062` on September 1, 2026. The algorithms and their local geometry dependencies come from the same revision, so later engine changes cannot silently alter this comparison. `PROVENANCE.json` records the original source hashes and the small portfolio adaptations.
 
-This is a historical research instrument. The current application has continued to evolve. No general speedup or production correctness claim follows from one preset or browser timing.
+This lab preserves an earlier version of the code; the current application has continued to evolve. No general speedup or production correctness claim follows from one preset or browser timing.
 
 ## Dependencies
 
